@@ -6,13 +6,13 @@
   id ="com.phonegap.app6"
    version ="1.0.0">
    
-   <name>app7 Mostrar tres aplicaciones </name>
+   <name>app7 Mostrar aplicaciones anteriores </name>
    
    <description>
-   Aplicacion que tres aplicaciones anteriores
+   Aplicacion que regresa a aplicaciones anterirores
    </description>
    
-   <author href="https://build.phonegap.com" email="   cbtis16.pelayodian.h@gmail.com">
+   <author href="https://build.phonegap.com" email="cbtis16.pelayodian.h@gmail.com">
    Pelayo Villa Dian
    </author>
    
@@ -33,8 +33,7 @@
 	   
 	  <!--plugin name="cordova-plugin-geolocation" source="npm"/>-->
 
-	
-	 
+	 	 
 	   <!--Colocar icono app-->
 	  
 	   <icon src="res/android/mdpi.png"/>
