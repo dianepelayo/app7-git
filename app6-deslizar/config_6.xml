@@ -12,7 +12,7 @@
    Aplicacion que realiza el swipe o deslizamiento en el dispositivo
    </description>
    
-   <author href="https://build.phonegap.com" email="   cbtis16.pelayodian.h@gmail.com">
+   <author href="https://build.phonegap.com" email="cbtis16.pelayodian.h@gmail.com">
    Pelayo Villa Dian
    </author>
    
@@ -33,13 +33,7 @@
 	   
 	  <!--plugin name="cordova-plugin-geolocation" source="npm"/>-->
 
-	 <!--Para acceder a paginas en internet-->
-	 <allow-intent href="https://*/*"/>
-	 <acces origin="https://*/*"/>
-	 <allow-intent href="http://*/*"/>
-	 <acces origin="http://*/*"/>
-	 <plugin name="cordova-plugin-whitelist" source="npm"/>
-	 
+	 	 
 	   <!--Colocar icono app-->
 	  
 	   <icon src="res/android/mdpi.png"/>
