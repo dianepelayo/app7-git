@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>  
  
 <widget xmlns ="http://www.w3.org/ns/widgets"
@@ -6,19 +5,19 @@
   id ="com.phonegap.app7"
    version ="1.0.0">
    
-   <name>app7 Mostrar aplicaciones anteriores </name>
+   <name>app7 Visualizar aplicaciones anterirores    </name>
    
    <description>
-   Aplicacion que regresa a aplicaciones anterirores
+   Aplicacion que visualiza aplicaciones anterirores
    </description>
    
-   <author href="https://build.phonegap.com" email="cbtis16.pelayodian.h@gmail.com">
+   <author href="https://build.phonegap.com" email="   cbtis16.pelayodian.h@gmail.com">
    Pelayo Villa Dian
    </author>
    
    <!--Personaliza la aplicacion y Plataforma-->
-   <preference name="orientation"    value="default"/>
-   <!-- <preference name="orientation" value="portrait" />-->
+   <!--<preference name="orientation"    value="default"/> -->
+    <preference name="orientation" value="portrait" />
 	<!-- <preference name="orientation"  value="landscape"/>-->
 	 <preference name="target-device"    value="universal"/>
 	 <preference name="fullscreen"    value="true"/>
@@ -32,9 +31,10 @@
 	  <plugin name="cordova-plugin-dialogs" spec="~1.3.1" />
 	   
 	  <!--plugin name="cordova-plugin-geolocation" source="npm"/>-->
-
-	 	 
+	  <!--Third part plugins-->
+	 
 	   <!--Colocar icono app-->
 	  
 	   <icon src="res/android/mdpi.png"/>
+	  
 	  </widget>
